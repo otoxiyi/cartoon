@@ -1,3 +1,6 @@
+# 全是漫画可用源（异次元漫画通用）
+https://www.yckceo.com/yiciyuan/tuyuans/index.html
+
 # 全是漫画
 全是漫画App，是替代网页浏览器，专门阅读漫画的工具，无需注册完全免费
 
